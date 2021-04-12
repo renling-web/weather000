@@ -1,4 +1,4 @@
-package com.example.weather000;
+package com.weather.android;
 
 import org.junit.Test;
 
